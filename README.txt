@@ -32,3 +32,6 @@ Charts plugin
 DataTables plugin 
 Smooth Scrolling 
 Fully Customization
+
+
+Bug Fix : Add Detail for JQuery 
